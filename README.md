@@ -1,4 +1,4 @@
-Olá! Eu me chamo Leo e sou graduando em Ciência da Computação na UFRJ!!
+Olá! Eu me chamo Leo e estou no 1° período de Ciência da Computação na UFRJ!!
 
 - 🌱 Estudando Python e C
 - 📫 How to reach me/Contate-me: leofonseca184@gmail.com

@@ -1,4 +1,4 @@
-Olá! Eu me chamo Leo e estou no 1° período de Ciência da Computação na UFRJ!!
+Olá!!!
 
 - 🌱 Estudando Python e C
 - 📫 How to reach me/Contate-me: leofonseca184@gmail.com

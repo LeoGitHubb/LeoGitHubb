@@ -1,4 +1,4 @@
-Olá, eu sou o Leonardo ✋🏾
+##Olá, eu sou o Leonardo ✋🏾
 
 - 🎓 Estudante de Ciência da Computação na [Universidade Federal do Rio de Janeiro](https://ufrj.br/).
 - 💻 Python, JavaScript, Java.
